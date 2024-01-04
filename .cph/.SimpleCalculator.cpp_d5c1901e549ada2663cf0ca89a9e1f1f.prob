@@ -1,0 +1,1 @@
+{"name":"Local: SimpleCalculator","url":"c:\\Users\\mepri\\Desktop\\Codes\\SimpleCalculator.cpp","tests":[{"id":1662056029039,"input":"5 % 5","output":""},{"id":1662056045382,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\mepri\\Desktop\\Codes\\SimpleCalculator.cpp","group":"local","local":true}

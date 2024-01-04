@@ -1,0 +1,1 @@
+{"name":"Local: SpiralPrint","url":"c:\\Users\\mepri\\Desktop\\Codes\\SpiralPrint.cpp","tests":[{"id":1664104646391,"input":"4 6\n1 2 3 4 5 6\n1 2 3 4 5 6\n1 2 3 4 5 6\n1 2 3 4 5 6\n1 2 3 4 5 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\mepri\\Desktop\\Codes\\SpiralPrint.cpp","group":"local","local":true}

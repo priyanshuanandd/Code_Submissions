@@ -1,0 +1,1 @@
+{"name":"Local: CharsiInLove","url":"c:\\Users\\mepri\\Desktop\\Codes\\CharsiInLove.cpp","tests":[{"id":1693465243632,"input":"45","output":"No"},{"id":1693465252776,"input":"256","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\mepri\\Desktop\\Codes\\CharsiInLove.cpp","group":"local","local":true}
