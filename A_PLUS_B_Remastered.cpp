@@ -36,6 +36,7 @@ void __f(const char *names, Arg1 &&arg1, Args &&...args)
 }
 typedef long long ll;
 #define int long long
+#define ten 10
 typedef long double ld;
 typedef pair<ll, ll> p64;
 typedef vector<ll> v64;
@@ -63,6 +64,7 @@ using str = string;             // yay python!
 const double pi = 3.1415926536; // 10
 void solve()
 {
+
     int n;
     cin >> n;
 
@@ -79,7 +81,7 @@ void solve()
     }
     sort(all(v2), greater<int>());
     forn(i, n - 1)
-    {
+    {   
         if (v1[i] + v2[i] != v1[i + 1] + v2[i+1])
         {
             cout << -1 << endl;
