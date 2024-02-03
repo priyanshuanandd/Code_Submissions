@@ -20,7 +20,8 @@
         "vector": "cpp",
         "random": "cpp",
         "unordered_set": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "unordered_map": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled",
     "better-comments.highlightPlainText": true
