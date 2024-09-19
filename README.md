@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Recursion
 |  |
@@ -21,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0241-different-ways-to-add-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
