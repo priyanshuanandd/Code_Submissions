@@ -27,4 +27,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0032-longest-valid-parentheses) |
+| [0155-min-stack](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
