@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 ## String
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0032-longest-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Dynamic Programming
 |  |
@@ -18,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
 |  |
@@ -28,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0224-basic-calculator) |
 ## Design
 |  |
 | ------- |
