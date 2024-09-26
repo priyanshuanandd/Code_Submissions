@@ -58,4 +58,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1203-print-in-order](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1203-print-in-order) |
 | [1316-fizz-buzz-multithreaded](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1316-fizz-buzz-multithreaded) |
+## Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0784-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0784-insert-into-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
