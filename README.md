@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0460-lfu-cache) |
+| [1256-rank-transform-of-an-array](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1256-rank-transform-of-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -77,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0098-validate-binary-search-tree) |
+## Array
+|  |
+| ------- |
+| [1256-rank-transform-of-an-array](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1256-rank-transform-of-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1256-rank-transform-of-an-array](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1256-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
