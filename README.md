@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0460-lfu-cache) |
 | [1256-rank-transform-of-an-array](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1694-make-sum-divisible-by-p) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Linked List
 |  |
 | ------- |
@@ -87,10 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-find-the-shortest-superstring](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0980-find-the-shortest-superstring) |
 | [1256-rank-transform-of-an-array](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1694-make-sum-divisible-by-p) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1256-rank-transform-of-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -103,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-find-the-shortest-superstring](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0980-find-the-shortest-superstring) |
+## Two Pointers
+|  |
+| ------- |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 <!---LeetCode Topics End-->
