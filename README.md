@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0980-find-the-shortest-superstring](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0980-find-the-shortest-superstring) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0980-find-the-shortest-superstring](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0980-find-the-shortest-superstring) |
 ## Recursion
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0980-find-the-shortest-superstring](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0980-find-the-shortest-superstring) |
 | [1256-rank-transform-of-an-array](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1694-make-sum-divisible-by-p) |
 ## Sorting
@@ -92,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1694-make-sum-divisible-by-p](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1694-make-sum-divisible-by-p) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0980-find-the-shortest-superstring](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0980-find-the-shortest-superstring) |
+## Bitmask
+|  |
+| ------- |
+| [0980-find-the-shortest-superstring](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0980-find-the-shortest-superstring) |
 <!---LeetCode Topics End-->
