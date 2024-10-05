@@ -85,10 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0854-making-a-large-island](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0854-making-a-large-island) |
+| [0971-shortest-bridge](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0971-shortest-bridge) |
 ## Array
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0854-making-a-large-island) |
+| [0971-shortest-bridge](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0971-shortest-bridge) |
 | [0980-find-the-shortest-superstring](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0980-find-the-shortest-superstring) |
 | [1256-rank-transform-of-an-array](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1694-make-sum-divisible-by-p) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0854-making-a-large-island) |
+| [0971-shortest-bridge](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0971-shortest-bridge) |
 ## Union Find
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0854-making-a-large-island) |
+| [0971-shortest-bridge](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0971-shortest-bridge) |
 ## Sliding Window
 |  |
 | ------- |
