@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0567-permutation-in-string) |
 | [0980-find-the-shortest-superstring](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0980-find-the-shortest-superstring) |
 | [1923-sentence-similarity-iii](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1923-sentence-similarity-iii) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0224-basic-calculator) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Design
 |  |
 | ------- |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0567-permutation-in-string) |
+## Simulation
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
