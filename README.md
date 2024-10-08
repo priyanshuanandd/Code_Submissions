@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0098-validate-binary-search-tree) |
+| [0310-minimum-height-trees](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0310-minimum-height-trees) |
 | [0854-making-a-large-island](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0854-making-a-large-island) |
 | [0971-shortest-bridge](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0971-shortest-bridge) |
 ## Array
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0310-minimum-height-trees) |
 | [0854-making-a-large-island](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0854-making-a-large-island) |
 | [0971-shortest-bridge](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0971-shortest-bridge) |
 | [1876-map-of-highest-peak](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1876-map-of-highest-peak) |
@@ -147,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Graph
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0310-minimum-height-trees) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
