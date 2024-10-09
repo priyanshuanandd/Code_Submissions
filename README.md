@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0567-permutation-in-string](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0567-permutation-in-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0980-find-the-shortest-superstring](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0980-find-the-shortest-superstring) |
 | [1923-sentence-similarity-iii](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1923-sentence-similarity-iii) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0224-basic-calculator) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Design
 |  |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0310-minimum-height-trees) |
+## Greedy
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
