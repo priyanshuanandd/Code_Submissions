@@ -167,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
