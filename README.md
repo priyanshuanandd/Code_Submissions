@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0241-different-ways-to-add-parentheses) |
+| [2125-gcd-sort-of-an-array](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2125-gcd-sort-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -104,12 +105,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1694-make-sum-divisible-by-p) |
 | [1876-map-of-highest-peak](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1876-map-of-highest-peak) |
 | [1923-sentence-similarity-iii](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1923-sentence-similarity-iii) |
+| [2125-gcd-sort-of-an-array](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2125-gcd-sort-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Sorting
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1256-rank-transform-of-an-array) |
+| [2125-gcd-sort-of-an-array](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2125-gcd-sort-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Prefix Sum
 |  |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0854-making-a-large-island) |
+| [2125-gcd-sort-of-an-array](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2125-gcd-sort-of-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -177,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Number Theory
+|  |
+| ------- |
+| [2125-gcd-sort-of-an-array](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2125-gcd-sort-of-an-array) |
 <!---LeetCode Topics End-->
