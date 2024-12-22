@@ -7,6 +7,8 @@
 #include <set>
 #include <unordered_set>
 #include <list>
+#include <ext/pb_ds/assoc_container.hpp>
+#include <ext/pb_ds/tree_policy.hpp>
 #include <chrono>
 #include <random>
 #include <iostream>
@@ -19,33 +21,8 @@
 #include <stack>
 #include <iomanip>
 #include <fstream>
-
 using namespace std;
-int binarySearch(const std::vector<int> &arr, int target)
-{
-    int left = 0;
-    int right = arr.size() - 1;
-
-    while (left <= right)
-    {
-        int mid = left + (right - left) / 2;
-
-        if (arr[mid] == target)
-        {
-            return mid; // Target found at index mid
-        }
-        else if (arr[mid] < target)
-        {
-            left = mid + 1; // Search in the right half
-        }
-        else
-        {
-            right = mid - 1; // Search in the left half
-        }
-    }
-
-    return -1; // Target not found
-}
+using namespace __gnu_pbds;
 #define bug(...) __f(#__VA_ARGS__, __VA_ARGS__)
 template <typename Arg1>
 void __f(const char *name, Arg1 &&arg1)
@@ -59,6 +36,28 @@ void __f(const char *names, Arg1 &&arg1, Args &&...args)
     cout.write(names, comma - names) << " : " << arg1 << " | ";
     __f(comma + 1, args...);
 }
+//*ordered set start
+template <class T>
+using ordered_set = tree<T, null_type,
+                         less<T>, rb_tree_tag, tree_order_statistics_node_update>;
+template <class T>
+using multi_ordered_set = tree<T, null_type,
+                               less_equal<T>, rb_tree_tag, tree_order_statistics_node_update>;
+//?order_of_key - find_by_order
+//*ordered set end
+#define cins(x)       \
+    for (auto &i : x) \
+    cin >> i
+#define cins2(x)      \
+    for (auto &i : x) \
+    cin >> i.ff >> i.ss
+#define endl "\n"
+#define ln "\n"
+#define mp make_pair
+#define ie insert
+#define pb push_back
+#define fi first
+#define se second
 typedef long long ll;
 #define int long long
 typedef long double ld;
@@ -72,10 +71,54 @@ typedef map<ll, ll> m64;
 const int MOD = 1000000007;
 const int INF = 2e18;
 double eps = 1e-12;
+#define dbg(a) cout << a << ln;
+#define dbg2(a) cout << a << ' ';
 #define forn(i, n) for (ll i = 0; i < n; i++)
 #define forsn(i, s, e) for (ll i = s; i < e; i++)
 #define rforn(i, s) for (ll i = s; i >= 0; i--)
 #define rforsn(i, s, e) for (ll i = s; i >= e; i--)
+typedef priority_queue<int, vector<int>, greater<int>> minheap;
+typedef priority_queue<int> maxheap;
+// DSU
+int dsufind(int v, vector<int> &parent)
+{
+    if (-1 == parent[v])
+        return v;
+    return parent[v] = dsufind(parent[v], parent);
+}
+
+void dsuunion(int a, int b, vector<int> &parent)
+{
+    a = dsufind(a, parent);
+    b = dsufind(b, parent);
+    if (a != b)
+        parent[b] = a;
+}
+
+// DSU end
+//  function for prime factorization
+vector<pair<ll, ll>> pf(ll n)
+{
+    vector<pair<ll, ll>> prime;
+    for (int i = 2; i <= sqrt(n); i++)
+    {
+        if (n % i == 0)
+        {
+            int count = 0;
+            while (n % i == 0)
+            {
+                count++;
+                n = n / i;
+            }
+            prime.pb(mp(i, count));
+        }
+    }
+    if (n > 1)
+    {
+        prime.pb(mp(n, 1));
+    }
+    return prime;
+}
 
 #define fast_cin()                    \
     ios_base::sync_with_stdio(false); \
@@ -86,50 +129,14 @@ double eps = 1e-12;
 #define sz(x) ((ll)(x).size())
 using str = string;             // yay python!
 const double pi = 3.1415926536; // 10
-void solve()
+void printvector(v64 &v)
 {
-    int n;
-    cin >> n;
-
-    v64 v(n);
     for (auto &i : v)
     {
-        cin >> i;
+        cout << i << " ";
     }
-
-    v64 v2;
-    v64 v3;
-    for (int i = 0; i < n; i++)
-    {
-        if (i + 1 > v[i])
-        {
-            v2.push_back(i);
-            v3.push_back(v[i]);
-        }
-    }
-
-    for (auto &&i : v)
-    {
-        
-    }
+    cout << ln;
 }
-
-int32_t main()
-{
-    fast_cin();
-    clock_t z = clock();
-    ll t = 1;
-    // cin >> t;
-    for (int it = 1; it <= t; it++)
-    {
-        solve();
-    }
-
-    cerr << "Run Time : " << ((double)(clock() - z) / CLOCKS_PER_SEC);
-
-    return 0;
-}
-
 // 1. If theres mod(%) think of Pigeon hole .
 
 // 2. Prefix Sum
@@ -137,3 +144,44 @@ int32_t main()
 // 3. A^B^A=B
 
 // 4. DNF-powerset
+
+// 5. Think 2 pointer/Think equation/Think Summation
+void solve()
+{
+    int n;
+    cin >> n;
+
+    v64 v(n);
+    ordered_set<p64> s;
+    int cnt = 0;
+    forn(i, n)
+    {
+        cin >> v[i];
+
+        if (v[i] < i + 1)
+        {
+            s.insert({i + 1, v[i]});
+            // bug(i + 1, v[i], s.order_of_key({i + 1, 0}));
+            cnt += s.order_of_key({v[i], 0});
+        }
+    }
+
+    cout << cnt << endl;
+}
+
+int32_t main()
+{
+    fast_cin();
+    clock_t z = clock();
+    ll t = 1;
+    cin >> t;
+    // freopen("input.txt","r",stdin); freopen("output.txt","w",stdout);
+    for (int it = 1; it <= t; it++)
+    {
+        solve();
+    }
+
+    // cerr << "Run Time : " << ((double)(clock() - z) / CLOCKS_PER_SEC);
+
+    return 0;
+}

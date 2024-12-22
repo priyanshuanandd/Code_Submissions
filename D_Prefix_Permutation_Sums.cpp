@@ -19,65 +19,13 @@
 #include <stack>
 #include <iomanip>
 #include <fstream>
-
 using namespace std;
 #define bug(...) __f(#__VA_ARGS__, __VA_ARGS__)
-typedef long long ll;
-typedef unsigned long long ull;
-typedef long double ld;
-typedef pair<int, int> p32;
-typedef pair<ll, ll> p64;
-typedef pair<double, double> pdd;
-typedef vector<ll> v64;
-typedef vector<int> v32;
-typedef vector<vector<int>> vv32;
-typedef vector<vector<ll>> vv64;
-typedef vector<vector<p64>> vvp64;
-typedef vector<p64> vp64;
-typedef vector<p32> vp32;
-typedef vector<pair<p64, ll>> vpp64;
-typedef set<ll> s64;
-typedef set<p64> sp64;
-typedef multiset<ll> ms64;
-typedef multiset<p64> msp64;
-typedef map<ll, ll> m64;
-typedef map<char, ll> mchar;
-typedef map<ll, v64> mv64;
-typedef unordered_map<ll, v64> uv64;
-typedef unordered_map<ll, ll> u64;
-typedef unordered_map<p64, ll> up64;
-typedef unordered_map<ll, vp64> uvp64;
-typedef priority_queue<ll> pq64;
-typedef priority_queue<ll, v64, greater<ll>> pqs64;
-const int MOD = 1000000007;
-double eps = 1e-12;
-#define forn(i, n) for (ll i = 0; i < n; i++)
-#define forsn(i, s, e) for (ll i = s; i < e; i++)
-#define rforn(i, s) for (ll i = s; i >= 0; i--)
-#define rforsn(i, s, e) for (ll i = s; i >= e; i--)
-struct custom_hash
-{
-    static uint64_t splitmix64(uint64_t x)
-    {
-        x += 0x9e3779b97f4a7c15;
-        x = (x ^ (x >> 30)) * 0xbf58476d1ce4e5b9;
-        x = (x ^ (x >> 27)) * 0x94d049bb133111eb;
-        return x ^ (x >> 31);
-    }
-
-    size_t operator()(p64 x) const
-    {
-        static const uint64_t FIXED_RANDOM = chrono::steady_clock::now().time_since_epoch().count();
-        return splitmix64(x.first + FIXED_RANDOM) ^ splitmix64(x.second + FIXED_RANDOM);
-    }
-    size_t operator()(ll x) const
-    {
-        static const uint64_t FIXED_RANDOM = chrono::steady_clock::now().time_since_epoch().count();
-        return splitmix64(x + FIXED_RANDOM);
-    }
-};
 template <typename Arg1>
-void __f(const char *name, Arg1 &&arg1) { cout << name << " : " << arg1 << endl; }
+void __f(const char *name, Arg1 &&arg1)
+{
+    cout << name << " : " << arg1 << endl;
+}
 template <typename Arg1, typename... Args>
 void __f(const char *names, Arg1 &&arg1, Args &&...args)
 {
@@ -85,14 +33,34 @@ void __f(const char *names, Arg1 &&arg1, Args &&...args)
     cout.write(names, comma - names) << " : " << arg1 << " | ";
     __f(comma + 1, args...);
 }
-
 #define ln "\n"
 #define mp make_pair
 #define ie insert
 #define pb push_back
 #define fi first
 #define se second
-#define INF 2e18
+typedef long long ll;
+#define int long long
+typedef long double ld;
+typedef pair<ll, ll> p64;
+typedef vector<ll> v64;
+typedef vector<vector<ll>> vv64;
+typedef vector<p64> vp64;
+typedef set<ll> s64;
+typedef set<p64> sp64;
+typedef map<ll, ll> m64;
+const int MOD = 1000000007;
+const int INF = 2e18;
+double eps = 1e-12;
+#define dbg(a) cout << a << ln;
+#define dbg2(a) cout << a << ' ';
+#define forn(i, n) for (ll i = 0; i < n; i++)
+#define forsn(i, s, e) for (ll i = s; i < e; i++)
+#define rforn(i, s) for (ll i = s; i >= 0; i--)
+#define rforsn(i, s, e) for (ll i = s; i >= e; i--)
+#define minheap priority_queue<int, vector<int>, greater<int>>;
+#define maxheap priority_queue<int>;
+
 #define fast_cin()                    \
     ios_base::sync_with_stdio(false); \
     cin.tie(NULL);                    \
@@ -100,103 +68,143 @@ void __f(const char *names, Arg1 &&arg1, Args &&...args)
 #define all(x) (x).begin(), (x).end()
 #define al(arr, n) arr, arr + n
 #define sz(x) ((ll)(x).size())
-#define dbg(a) cout << a << endl;
-#define dbg2(a) cout << a << ' ';
-using ld = long double;
-using db = double;
-using str = string; // yay python!
-// INPUT
-#define tcT template <class T
-#define tcTU tcT, class U
-#define tcTUU tcT, class... U
-tcT > void re(T &x)
+using str = string;             // yay python!
+const double pi = 3.1415926536; // 10
+void printvector(v64 &v)
 {
-    cin >> x;
-}
-tcTUU > void re(T &t, U &...u)
-{
-    re(t);
-    re(u...);
-}
-
-int gcd(ll a, ll b)
-{
-    int gcd = 0;
-    for (int i = 2; i <= min(a, b); i++)
+    for (auto &i : v)
     {
-        if (a % i + b % i == 0)
-        {
-            gcd = i;
-        }
+        cout << i << " ";
     }
-    return gcd;
+    cout << ln;
 }
+// 1. If theres mod(%) think of Pigeon hole .
 
-bool isPrime(int x)
-{
-    for (int d = 2; d * d <= x; d++)
-    {
-        if (x % d == 0)
-            return false;
-    }
-    return true;
-}
+// 2. Prefix Sum
 
+// 3. A^B^A=B
+
+// 4. DNF-powerset
+
+// 5. Think 2 pointer/Think equation/Think Summation
 void solve()
 {
-    ll n, x;
+    int n;
     cin >> n;
-    v64 v;
-    forn(i, n - 1)
+    v64 v(n - 1);
+    for (auto &i : v)
     {
-        cin >> x;
-        v.pb(x);
+        cin >> i;
     }
-    v64 v2(n + 1, 0);
-    ll diff;
+    v64 hash(n + 1, 0);
+    sort(all(v));
+    // for (auto &i : v)
+    // {
+    //     cout << i << " ";
+    // }
+    // cout << endl;
+    v64 loc;
     forn(i, n - 2)
     {
-        diff = abs(v[i] - v[i + 1]);
-     //   bug(i,diff);
-        if (diff > 2 * n)
+        int curr = v[i + 1] - v[i];
+        if (curr > n)
         {
-            dbg("NO");
-            return;
+            loc.push_back(i);
+            continue;
         }
-        else if (v2[diff] == 0)
+        if (hash[curr] == 0)
         {
-            v2[diff]++;
-        }
-        else if (v2[n] == 0)
-        {
-            v2[n]++;
+            hash[curr]++;
         }
         else
         {
-            dbg("NO");
-            return;
+            loc.push_back(i);
+            continue;
         }
     }
-    dbg("YES");
+    int cnthash = 0;
+    int cnt0 = 0;
+    forsn(i, 1, n + 1)
+    {
+        if (hash[i] == 0)
+        {
+            cnthash += i;
+            cnt0++;
+        }
+    }
+
+    if (cnt0 == 3 and loc.size() == 1)
+    {
+        if (v[0] > n)
+        {
+            cout << "NO" << endl;
+            return;
+        }
+        if (hash[v[0]] > 0)
+        {
+            cout << "NO" << endl;
+            return;
+        }
+
+        hash[v[0]] = 1;
+        cnt0--;
+        cnthash -= v[0];
+        if (v[loc[0] + 1] - v[loc[0]] != cnthash)
+        {
+            cout << "NO" << endl;
+            return;
+        }
+        cout << "YES" << endl;
+        return;
+    }
+    else if (cnt0 == 2 and loc.size() == 0)
+    {
+        if (cnthash != v[0])
+        {
+            if (v[0] <= n and hash[v[0]] == 0)
+            {
+                cout << "YES" << endl;
+                return;
+            }
+            else
+            {
+                cout << "NO" << endl;
+                return;
+            }
+        }
+
+        cout << "YES" << endl;
+        return;
+    }
+    else
+    {
+
+        cout << "NO" << endl;
+        return;
+    }
 }
 
-int main()
+int32_t main()
 {
     fast_cin();
     clock_t z = clock();
-    // #ifndef ONLINE_JUDGE
-    //   freopen("revegetate.in", "r", stdin);
-    //  freopen("revegetate.out", "w", stdout);
-    // #endif
     ll t = 1;
-
     cin >> t;
+    // freopen("input.txt","r",stdin); freopen("output.txt","w",stdout);
     for (int it = 1; it <= t; it++)
     {
         solve();
     }
 
-    cerr << "Run Time : " << ((double)(clock() - z) / CLOCKS_PER_SEC);
+    // cerr << "Run Time : " << ((double)(clock() - z) / CLOCKS_PER_SEC);
 
     return 0;
 }
+
+// 1. If theres mod(%) think of Pigeon hole .
+
+// 2. Prefix Sum
+
+// 3. A^B^A=B
+
+// 4. DNF-powerset
