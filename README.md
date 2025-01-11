@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0567-permutation-in-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0980-find-the-shortest-superstring](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0980-find-the-shortest-superstring) |
+| [1502-construct-k-palindrome-strings](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1502-construct-k-palindrome-strings) |
 | [1923-sentence-similarity-iii](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0460-lfu-cache) |
 | [0567-permutation-in-string](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0567-permutation-in-string) |
 | [1256-rank-transform-of-an-array](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1256-rank-transform-of-an-array) |
+| [1502-construct-k-palindrome-strings](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1502-construct-k-palindrome-strings) |
 | [1694-make-sum-divisible-by-p](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1694-make-sum-divisible-by-p) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Linked List
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1502-construct-k-palindrome-strings](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1502-construct-k-palindrome-strings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Database
@@ -191,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2292-counting-words-with-a-given-prefix) |
+## Counting
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1502-construct-k-palindrome-strings) |
 <!---LeetCode Topics End-->
