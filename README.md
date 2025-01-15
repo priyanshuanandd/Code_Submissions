@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-find-the-shortest-superstring](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0980-find-the-shortest-superstring) |
+| [2509-minimize-xor](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2509-minimize-xor) |
 ## Bitmask
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1502-construct-k-palindrome-strings](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1502-construct-k-palindrome-strings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2509-minimize-xor](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Database
 |  |
