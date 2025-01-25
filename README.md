@@ -112,12 +112,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/priyanshuanandd/Code_Submissions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1256-rank-transform-of-an-array) |
 | [2125-gcd-sort-of-an-array](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2125-gcd-sort-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/priyanshuanandd/Code_Submissions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0854-making-a-large-island](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0854-making-a-large-island) |
 | [2125-gcd-sort-of-an-array](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2125-gcd-sort-of-an-array) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/priyanshuanandd/Code_Submissions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
 |  |
 | ------- |
