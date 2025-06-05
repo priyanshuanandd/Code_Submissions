@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0980-find-the-shortest-superstring](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0980-find-the-shortest-superstring) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Recursion
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0155-min-stack) |
 | [0460-lfu-cache](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0460-lfu-cache) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,11 +83,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
 |  |
 | ------- |
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0310-minimum-height-trees) |
 | [0854-making-a-large-island](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0854-making-a-large-island) |
 | [0971-shortest-bridge](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0971-shortest-bridge) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Array
 |  |
 | ------- |
@@ -146,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0310-minimum-height-trees) |
 | [0854-making-a-large-island](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0854-making-a-large-island) |
 | [0971-shortest-bridge](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0971-shortest-bridge) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1876-map-of-highest-peak](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1876-map-of-highest-peak) |
 ## Union Find
 |  |
