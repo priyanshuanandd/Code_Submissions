@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0241-different-ways-to-add-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2032-largest-odd-number-in-string) |
 | [2125-gcd-sort-of-an-array](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2125-gcd-sort-of-an-array) |
 ## String
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-find-the-shortest-superstring](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0980-find-the-shortest-superstring) |
 | [1502-construct-k-palindrome-strings](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1502-construct-k-palindrome-strings) |
 | [1923-sentence-similarity-iii](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1923-sentence-similarity-iii) |
+| [2032-largest-odd-number-in-string](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1502-construct-k-palindrome-strings](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1502-construct-k-palindrome-strings) |
+| [2032-largest-odd-number-in-string](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2509-minimize-xor](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/priyanshuanandd/Code_Submissions/tree/master/2616-maximal-score-after-applying-k-operations) |
