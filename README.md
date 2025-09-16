@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0980-find-the-shortest-superstring](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0980-find-the-shortest-superstring) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Recursion
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0098-validate-binary-search-tree) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0854-making-a-large-island](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0854-making-a-large-island) |
 | [0971-shortest-bridge](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0971-shortest-bridge) |
 | [0980-find-the-shortest-superstring](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0980-find-the-shortest-superstring) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0567-permutation-in-string) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -213,4 +217,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/priyanshuanandd/Code_Submissions/tree/master/1502-construct-k-palindrome-strings) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/priyanshuanandd/Code_Submissions/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
